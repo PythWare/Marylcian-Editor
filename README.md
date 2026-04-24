@@ -35,3 +35,7 @@ Huge credit goes to Joschuka and hearhellacopters for their documentation on the
 <img width="1280" height="936" alt="x9" src="https://github.com/user-attachments/assets/0bf439bf-b013-43c0-919e-99ab7ee51df1" />
 
 <img width="1279" height="930" alt="x7" src="https://github.com/user-attachments/assets/5652bb46-e1c6-4402-a22a-279c366264ac" />
+
+# Animation Example
+
+<img width="800" height="450" alt="gifu" src="https://github.com/user-attachments/assets/0bc386fb-51e1-4847-a567-c8da6a17fe2c" />
