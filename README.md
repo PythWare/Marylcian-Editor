@@ -2,6 +2,10 @@
 
 Marylcian Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format. It's in an early state but G1M modding is currently possible with it, i've even released a sample mod on nexus made possible with Marylcian Editor called "Ayane Diversity" which is at https://www.nexusmods.com/warriorsorochi3/mods/3
 
+# Requirements
+
+When Marylcian Editor releases the only requirements are Python 3 and Pyglet (handles the 3D side) which is able to be installed with pip in the command console.
+
 # Features
 
 Marylcian Editor currently can view and display G1M models as well as supports modding them in their G1M state. You can also see live changes with a preview display so you can visually see the changes as you mod. It supports all G1Ms whether they're character models, troop models, item models, building models, etc.
