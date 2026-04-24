@@ -2,11 +2,19 @@
 
 Marylcian Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format.
 
-Marylcian Editor currently can view and display G1M models as well as supports modding them in their G1M state. You can also see live changes with a preview display so you can visually see the changes as you mod.
+# Features
 
-Marylcian Editor supports all G1Ms whether they're character models, troop models, item models, building models, etc.
+Marylcian Editor currently can view and display G1M models as well as supports modding them in their G1M state. You can also see live changes with a preview display so you can visually see the changes as you mod. It supports all G1Ms whether they're character models, troop models, item models, building models, etc.
 
 It's not ready to release yet but when it is the repository will be updated. Barouhcruz Editor will handle G1A/G2A modding, so essentially an animation Editor.
+
+# Mod Potential
+
+You'll have the same potential as Skyrim modders that used Bodyslide, the goal of Marylcian Editor is to make G1M modding easier. Meaning new custom bodies, changed proportions, etc.
+
+# Credits
+
+Huge credit goes to Joschuka and hearhellacopters for their documentation on the G1M, G1T, G1A, and G2A formats.
 
 # Example Images
 
