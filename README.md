@@ -1,6 +1,6 @@
 # Marylcian Editor
 
-Marylcian Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format.
+Marylcian Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format. It's in an early state but G1M modding is currently possible with it, i've even released a sample mod on nexus made possible with Marylcian Editor called "Ayane Diversity" which is at https://www.nexusmods.com/warriorsorochi3/mods/3
 
 # Features
 
